@@ -1,0 +1,45 @@
+Geomancer Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: EADA  5    Group 40'     N/A      Earth Dagger: Stabs a group of foes
+                                           for 200 to 800 points of damage.
+Level 1: EASO  5    Level         On level Earth Source: Reveals all booby
+                                           traps that you pass over while on
+                                           a dungeon level.
+Level 1: EAWA  8    Level         On level Earth Warp: Trap Zaps the entire
+                                           level.
+Level 2: TREB  10   All foes      N/A      Trebulation: Burns all foes with a
+                                           hot flame for 150 to 600 points of
+                                           damage.
+Level 2: EAEL  15   Party         N/A      Earth Elemental: Summons an Earth
+                                           Elemental to join and fight your
+                                           party.
+Level 2: WAWA  15   Wall          N/A      Wall Warp: Like PHDO, but last
+                                           until you leave the dungeon level.
+Level 3: ROCK  18   1 foe 60'     N/A      Rock: Stones a foe.
+Level 3: ROAL  20   Level         On level Roscoe's Alert: Reveals anti-magic
+                                           areas.
+Level 4: SUSO  20   Level         On level Susore's Song: Reveals all heal
+                                           party squares.
+Level 4: SAST  25   Group         N/A      Sand Storm: Moves foes back 60'.
+Level 5: SANT  30   Level         On level Sanctuary: Shows squares that raise
+                                           spell points.
+Level 5: GLST  40   1 foe 90'     N/A      Glacier Strike: Sends a stalagmite
+                                           up through the ground to pin a foe
+                                           to the ceiling for 400 to 1600
+                                           points of damage.
+Level 6: PATH  40   Level         On level Path Finder: Makes an instant map
+                                           of any dungeon level.
+Level 6: MABA  50   Group 50'     N/A      Magma Blast: Burns foes with firey
+                                           hot magma for 300 to 1200 points of
+                                           damage.
+Level 7: JOBO  60   All foes      N/A      Jolt Bolt: Smashes all foes to the
+                                           ground and shocks them for 400 to
+                                           1600 points of damage.
+Level 7: EAMA  80   Group 50'     N/A      Earth Mama: Opens the Earth's
+                                           surface below a group of foes,
+                                           drops them in, and closes over them
+                                           so that they are never heard from
+                                           again.

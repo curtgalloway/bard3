@@ -1,0 +1,14 @@
+:a
+Miscellaneous Spells:
+
+Code  Cost  Range  Duration  Description
+------------------------------------------------------------------------------
+GILL  10    Party    Short   Gill: Let's party breathe under water.
+DIVA  250   Party    N/A     Divine Intervention: During non combat: Makes
+                             all illusionary characters into real ones,
+                             cures of all illnesses except age, restores
+                             all hit points to the party. During combat:
+                             Lowers party's armor class by 20, increases
+                             attacks by 8 hits, casts Mangar's Mallet.
+NUKE  150  All foes  N/A     Goderdammerrung: Nukes all foes for about 2000
+                             points of damage.

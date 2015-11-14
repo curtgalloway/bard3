@@ -1,0 +1,49 @@
+Wizard Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: SUEL  10   Party         N/A      Summon Elemental: Makes a fire
+                                           being from the raw elements of the
+                                           universe to join and fight for your
+                                           party.
+Level 1: FOFO  11   Group 10'     N/A      Force Focus: Lands a cone of force
+                                           on your foes, inflicting 25 to 100
+                                           points of damage.
+Level 2: PRSU  15   Party         N/A      Prime Summoning: Forces a powerfull
+                                           undead creature to join and fight
+                                           for your party.
+Level 2: DEBA  11   1 Foe 30'     N/A      Demon Bane: Inflicts 100 to 400
+                                           points of Damage to a creature of
+                                           evil or supernatural origin.
+Level 3: FLCO  14   Group 40'     N/A      Flame Column: Makes a cyclone of
+                                           flame that lashes out and delivers
+                                           22 to 88 points of damage to a
+                                           group of your foes.
+Level 3: DISP  12   Character     N/A      Dispossess: Returns a possessed
+                                           party member to a normal state of
+                                           mind.
+Level 4: HERB  25   Party         N/A      Summon Herb: Summons Herb to fight
+                                           for your party.
+Level 4: ANDE  14   Character     Combat   Animate Dead: Reanimates a dead
+                                           character so that he/she fights as
+                                           if truly alive. Combat only spell.
+Level 5: SPBI  16   1 Foe         N/A      Spell Bind: If successful, forces 1
+                                           of your foes to join and fight for
+                                           your party.
+Level 5: SOWH  13   1 Foe 70'     N/A      Soul Whip: Whips out a tendril of
+                                           psionic (mind) power to strike a 
+                                           chosen foe, inflicting 50 to 200
+                                           points of damage.
+Level 6: GRSU  22   Party         N/A      Greater Summoning: Like PRSU, but 
+                                           forces a powerful elemental to join
+                                           and fight for you.
+Level 6: BEDE  18   Character     N/A      Beyond Death: Resores life and one
+                                           hit point to a dead character.
+Level 7: WIZW  16   Group 50'     N/A      Wizard War: Creates a pyrotechnical
+                                           storm over a group of foes
+                                           inflicting 50 to 200 points of
+                                           damage.
+Level 7: DMST  25   Group 50'     N/A      Demon Strike: Releases a group of
+                                           demons that attack for 200 to 400
+                                           points of damage.

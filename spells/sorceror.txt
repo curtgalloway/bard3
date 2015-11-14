@@ -1,0 +1,34 @@
+Sorceror Spells:
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: MIJA  3    1 Foe 40'     N/A      Mind Jab: Jabs foe for 2 to 8 times
+                                           the spell caster's level.
+Level 1: PHBL  2    Party         Combat   Phase Blur: Makes party dodge
+                                           attacks easier.
+Level 1: LOTR  2    30'           Short    Locate Trap: Locates traps.
+Level 2: DISB  4    Illusions     Combat   Disbelieve: Makes party disbelieve
+                                           illusions.
+Level 2: WIWA  4    Party         N/A      Wind Warrior: Makes a ninja dude.
+Level 2: FEAR  4    1 Group       Combat   Fear: Reduces attack ability.
+Level 3: WIOG  6    Party         N/A      Wind Ogre: Makes a wind ogre.
+Level 3: INVI  6    Party         Combat   Invisible: Makes party invisble.
+Level 3: SESI  6    30'           Medium   Locate Trap: Longer than LOTR.
+Level 4: CAEY  7    Party         N/A      Cat's Eye: Perfect night vision.
+Level 4: WIDR  12   Party         N/A      Wind Dragon: Makes a red dragon.
+Level 5: DIIL  8    Illusions     Combat   Disrupt Illusion: Disrupts all
+                                           illusions and prevents others from
+                                           appearing.
+Level 5: MIBL  10   All foes 30'+ Combat   Mind Blade: Shocks foes for 25 to
+                                           100 points of damage.
+Level 6: WIGI  11   Party         N/A      Wind Giant: Makes a wind giant.
+Level 6: SOSI  11   Party         Long     Locate Trap: Longer than SESI.
+Level 7: RIME  20   All foes 40'+ N/A      Freezes or burns for 50 to 200
+                                           points of damage.
+Level 7: WIHE  16   Party         N/A      Hurricane: Creates an illusionary
+                                           hurricane to join your party.
+Level 7: MAGM  40   1 Group       N/A      Shocks for 60 to 240 points of
+                                           damage, turns them to stone, or
+                                           kills them.
+Level 7: PREC  50   All foes      Combat   Pre-Eclusion: Keeps foes from
+                                           summoning more foes.

@@ -1,0 +1,41 @@
+Conjurer Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: MAFL  3    View          Medium   Mage Flame: Torch that floats.
+Level 1: ARFI  3    1 Foe 10'     N/A      Arc Fire: Shoots flame. Hits for 1
+                                           to 4 points of damage, multiplied
+                                           by the spell casters level.
+Level 1: TRZP  2    30'           N/A      Trap Zap: Disarms traps.
+Level 2: FRFO  3    Group         Combat   Freeze Foes: Slows oponents down,
+                                           makes them easier to hit.
+Level 2: MACO  3    N/A           Medium   Magic Compas: Makes a compas
+Level 2: WOHL  4    Character     N/A      Word of Healing: Fixes a guy who is
+                                           hurt for 4 to 16 points to damage.
+Level 3: LERE  5    View          Long     Lesser Revelation: A Mage Flam that
+                                           reveals secret doors.
+Level 3: LEVI  4    Party         Long     Levitation: Makes characters float
+                                           over traps or up and down portals.
+Level 3: WAST  5    Group 20'     N/A      Warstrike: Burns foes for 5 to 1
+                                           points of damage.
+Level 4: INWO  6    Party         Short    Instant Wolf: Makes a wolf.
+Level 4: FLRE  6    Character     N/A      Flesh Restorer: Heals for 10 to 40
+                                           points of damage, poisoning, and
+                                           insanity.
+Level 5: GRRE  7    View          Long     Greater Revelation: Like LERE, but
+                                           longer and lights a lighter Area.
+Level 5: SHSP  7    Group 30'     N/A      Shock-Sheree: Shocks the enemy for
+                                           10 to 40 points of damage.
+Level 6: MALE  8    Party         Indef    Major Levitation: Like LEVI, but
+                                           lasts longer.
+Level 6: REGN  12   Character     N/A      Regenerate: Heals one character
+                                           replacing all hit points.
+Level 7: FLAN  12   Party         N/A      Flesh Anew: Like FLRE, But Effects
+                                           all characters.
+Level 7: APAR  15   Party         N/A      Apport Arcane: Teleports to other
+                                           dungeons and cities.
+Level 7: FAFO  18   Group         N/A      Far Foe: Moves a group of foes 40'
+                                           further away, up to a max of 90'.
+Level 7: INSL  12   Party         N/A      Instant Slayer: Creates a mean
+                                           dude. The name speaks for itself.

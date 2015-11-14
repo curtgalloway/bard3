@@ -1,0 +1,37 @@
+Archmage Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: HAFO  15   All foes      1 Round  Haltfoe: If successfull, this spell
+                                           causes every attacking group to do
+                                           nothing during the next round of
+                                           fighting.
+Level 1: MEME  20   Group         N/A      Melee Men: Pulls an attacking group
+                                           into melle range (10') regardless
+                                           of how far away they were to begin
+                                           with.
+Level 2: BASP  28   Party         Misc.    Batchspell: Performs all of the
+                                           following spells: Greater
+                                           Revelation, Mystical Coat of Armor,
+                                           Sorcerer Sight, Major Levitation,
+                                           and Magic Compas.
+Level 3: CAMR  26   Party         N/A      Camaraderie: Has a 50% chance of 
+                                           calming all monsters in your party
+                                           that have turned hostile.
+Level 4: NILA  30   Group 90'     N/A      Night Lance:  Launches a chilling
+                                           missile against your foes,
+                                           inflicting 100 to 400 points of
+                                           damage.
+Level 5: HEAL  50   Party         N/A      Heal All: A beyond death spell that
+                                           resurrects every dead party member
+                                           (including those turned to stone),
+                                           and heals all wounds, paralysis,
+                                           and insanity.
+Level 6: BRKR  60   Party         N/A      Brothers Kringle: The brothers are
+                                           always ready to help freinds in
+                                           trouble. Enough brothers appear to
+                                           fill the empty slots in your party.
+Level 7: MAMA  80   All foes 90'  N/A      Mangars Mallet: Inflicts 200 to 800
+                                           bone crushing damage points against
+                                           every monster your group faces.

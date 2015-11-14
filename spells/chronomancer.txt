@@ -1,0 +1,33 @@
+Chronomancer Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: ARBO  10   Party         N/A      Teleport to Arboria. Must be in
+                                           quite grove outside of Skara Brae.
+Level 1: ENIK  10   Party         N/A      Teleport to wilderness outside of
+                                           Skara Brae. Must be at well worn
+                                           area in Arboria.
+Level 1: VITL  12   1 Character   N/A      Vitality: Heals a character 4 to 8
+                                           points times spell caster's level.
+Level 2: WIFI  20   Group 20'     N/A      Wizard's Fist: Burns foes for 300
+                                           to 600 points of damage.
+Level 2: COLD  20   Group 80'     N/A      Coldspell: Freezez foes for 50 to
+                                           400 points of damage.
+Level 3: GOFI  25   Group 80'     N/A      God Fire: Burns a foes for 60 to
+                                           240 points of damage.
+Level 3: STUN  30   All foes      N/A      Stun: Stuns all foes for 50 to 200
+                                           points of damage.
+Level 4: LUCK  45   Party         Combat   Luck: Increases party's hitting and
+                                           defending by 8 points.
+Level 4: FADE  50   1 Foe 30'     N/A      Far Death: Kills foe.
+Level 5: WHAT  60   1 Object      N/A      Identifies an item.
+Level 5: OLAY  60   1 Character   N/A      Youth Potion: Coats one character
+                                           to rid of oldness.
+Level 6: GRRO  65   1 Character   N/A      Fixes character even if dead.
+Level 6: FOTA  70   Group         N/A      Casts a Sandstorm, WIFI, and moves
+                                           back any survivors.
+Level 7: SHSH  60   Party         N/A      Shadow Shield: Lowers party's armor
+                                           class by 4.
+Level 7: FAFI  100  All foes      N/A      Devistates all foes for 400 to 1500
+                                           points of damage.

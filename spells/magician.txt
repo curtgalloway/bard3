@@ -1,0 +1,52 @@
+Magician Spells:
+
+Level #: Code  Cost Range        Duration  Description
+------------------------------------------------------------------------------
+
+Level 1: VOPL  3    Character     Combat   Vorpal Plating: Increases damage
+                                           points of a character by 2 to 8
+                                           points per hit.
+Level 1: QUFI  3    Character     N/A      Quick Fix: Heals a character for
+                                           precisely 8 points up to the max.
+Level 1: SCSI  2    Party         N/A      Scry Sitee: Causes dungeon or other
+                                           places to reveal the location.
+Level 2: HOWA  4    1 Foe 10'     N/A      Holy Water: Hurts a foe of evil or
+                                           supernatural origin for 6 to 24
+                                           points of damage.
+Level 2: MAGA  5    Character     Combat   Mage Gaunlets: Like VOPL, but makes
+                                           4 to 16 points per hit.
+Level 2: AREN  5    30'           Short    Area Enchant: Makes dungeon walls
+                                           call out if you are within 30'
+                                           (3 Squares) of stairs.
+Level 3: MYSH  6    Party         Medium   Mystic Shield: Makes air in front
+                                           of the party a sheild that is as
+                                           hard as metal and procedes the
+                                           party as they move.
+Level 3: OGST  6    Character     Combat   Oscon's Ogrestrength: Makes a
+                                           member strong as eliks ogre for the
+                                           duration of the battle.
+Level 3: STFL  6    Group 40'+    N/A      Starflare:Ignites air around enemy,
+                                           burns them for 10 to 40 points of
+                                           damage.
+Level 4: SPTO  8    1 Foe 70'     N/A      Spectre Touch: Touch of death, hits
+                                           for 15 to 60 points of damage.
+Level 4: DRBR  7    Group 30'+    N/A      Dragon Breath: Breathes fire. Burns
+                                           for 11 to 44 points of damage.
+Level 5: ANMA  8    Party         Combat   Anti-Magic: Makes ground absorb
+                                           some of the spells cast at party
+                                           and aids in disbeleiving illusions.
+Level 5: GIST  10   Party         Combat   Giant Strike: Increased party's
+                                           damage by 10 points per hit.
+Level 6: PHDO  9    1 Wall        1 Move   Phase Door: Turns almost any wall
+                                           to air for one move.
+Level 6: YMCA  10   Party         Indef    Mystic Coat of Armor: Like MYSH,
+                                           but lasts longer.
+Level 7: REST  12   Party         N/A      Restoration: Fixes every member in
+                                           the party. Cures posioning and
+                                           insanity.
+Level 7: DEST  14   1 Foe 10'     N/A      Deathstrike: Likely to instantly
+                                           kill an enemy.
+Level 7: ICES  11   Group 50'     N/A      Ice Storm: Freezes a group of foes
+                                           for 20 to 80 points of damage.
+Level 7: STON  20   Character     N/A      Stone Heal: Turns a stoned party
+                                           member into flesh.
