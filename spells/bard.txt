@@ -1,0 +1,27 @@
+1. Sir Robin’s Tune: This lets you run away from attackers as long as the
+combat has not yet begun. During combat, this keeps the monsters
+from calling for additional help.
+
+2. Safety Song: Sets up an an anti-monster aura, so foes won’t randomly
+attack you.
+
+3. Sanctuary Score: Lowers the party’s armor class level up to a maximum
+of 15 points.
+
+4. Bringaround Ballad: In non-combat situations, this rejuvenates the
+Bard’s hit points. During combat, this song will affect everyone in your
+party, including the Bard.
+
+5. Rhyme of Duotime: In non-combat situations, this regenerates the
+mage’s spell points. During combat, it gives the party an extra attack.
+
+6. Watchwood Melody: This creates light so you can find your way
+around. May even work in anti-magic zones.
+
+7. Kiel’s Overture: In non-combat situations, this calls up a compass so
+you can get your bearings. During combat, this casts the monster-frying
+Trebuchet spell for one round.
+
+8. Minstrel Shield: In non-combat situations, this lowers your armor class.
+During combat, it also partially shields your party so they only take half
+damage from monster attacks.
